@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(220, 126, 126);
+    font-family: sans-serif;
+}
+#date{
+    text-align: center;
+    border: 2px solid rgb(149, 42, 79)
+}
+#poem{
+    font-size: 155%;
+    
+}
+.names{
+    color: rgb(111, 38, 130);
+     list-style-type: georgian;
+     font-size: 105%;
+}
+.color{
+    color: rgb(91, 5, 5);
+}
+#style{
+    background-color:#e98d97;
+    font-size: 130%;
+    
+}
